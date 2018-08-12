@@ -10,7 +10,7 @@ namespace W2TC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Travis");
+            Console.WriteLine("Travis!");
         }
     }
 }
